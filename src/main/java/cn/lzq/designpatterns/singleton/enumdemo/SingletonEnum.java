@@ -1,4 +1,4 @@
-package cn.lzq.designpatterns.singleton;
+package cn.lzq.designpatterns.singleton.enumdemo;
 
 /**
  * 枚举方式
