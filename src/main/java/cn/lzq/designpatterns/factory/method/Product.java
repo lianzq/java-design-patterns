@@ -1,4 +1,4 @@
-package cn.lzq.designpatterns.factory.simple;
+package cn.lzq.designpatterns.factory.method;
 
 /**
  * @author lianzhiqiang
