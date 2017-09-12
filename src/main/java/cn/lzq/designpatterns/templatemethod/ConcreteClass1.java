@@ -1,4 +1,4 @@
-package cn.lzq.designpatterns.abstractclass;
+package cn.lzq.designpatterns.templatemethod;
 
 /**
  * @author lianzhiqiang
