@@ -1,4 +1,4 @@
-package cn.lzq.designpatterns.abstractclass;
+package cn.lzq.designpatterns.templatemethod;
 
 /**
  * 定义一个操作中算法的框架，而将一些步骤延迟到子类中
