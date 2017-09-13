@@ -1,4 +1,4 @@
-package cn.lzq.designpatterns.proxy;
+package cn.lzq.designpatterns.proxy.staticproxy;
 
 /**
  * @author lianzhiqiang
