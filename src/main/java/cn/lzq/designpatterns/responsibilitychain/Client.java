@@ -7,7 +7,7 @@ package cn.lzq.designpatterns.responsibilitychain;
 public class Client {
 
     public static void main(String[] args) {
-        //声明所以处理节点
+        //声明所有处理节点
         Handler handler1 = new ConcreteHandler1();
         Handler handler2 = new ConcreteHandler1();
         Handler handler3 = new ConcreteHandler1();
